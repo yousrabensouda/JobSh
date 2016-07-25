@@ -44,10 +44,10 @@
               <h3 class="masthead-brand">CECS</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="index.html">Home</a></li>
+                  <li class="active"><a href="#">Home</a></li>
                   <li>  <a href="link1.html">Who are we?</a> 
 </li>
-                 <li><a href="link2.html">Contact Us</a></li>
+                 <li><a href="#">Contact Us</a></li>
                 </ul>
               </nav>
             </div>
@@ -57,7 +57,9 @@
 <h1 class="cover-heading">Welcome to the CECS Official Website.</h1>
             <p class="lead">CECS is a comitee that aims to encourage highschool students to participate in the citizenship life, including taking the lead of their lives,and have a  social impact on their environments.</p>
             <p class="lead">
-                       </div>
+              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+            </p>
+          </div>
 
           
           </div>
@@ -78,8 +80,8 @@
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   
 
-<font size="10"><font ="Arriel"><h>Our Vision</h>
-<p class="lead" > Have an efficient impact in our society and be able to instaure the spirit of change in the younger generations, spreading awareness about the importance of their involvement in the field of community service<p>
+<font size="10"><font ="Arriel"><h>Join us by contacting us here:/h>
+<p class="lead" > <p>
 
 
 
